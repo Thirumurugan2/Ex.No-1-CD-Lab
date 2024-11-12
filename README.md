@@ -2,7 +2,7 @@ Ex. No : 1
 
 IMPLEMENTATION OF SYMBOL TABLE
 
-NAME : Aadithyan R
+NAME : MOHAN KRISHNA J 
 
 Register Number : 212222230001
 
